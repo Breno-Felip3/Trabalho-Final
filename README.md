@@ -1,6 +1,7 @@
 # Trabalho-Final
 Trabalho final - UNA
 # Objetivo do sistema
+O objetivo do projeto é criar um jogo educativo de Perguntas e Respostas relacionadas a Programação Orientada à Objetos, no qual permite o jogador escolher 1 personagem dentre os 5 criados. As partidas serão intercaladas com 2 jogadores, cada um deles terá um tempo de vida limite dentro do jogo, do qual irá ser reduzido toda vez que o jogador responder incorretamente à uma pergunta. Após o término de cada partida será apresentado a pontuação final do jogador.
 # Definições e Siglas
 # Cronograma previsto
 # Colaboradores
@@ -57,7 +58,7 @@ Trabalho final - UNA
 	 
 # Backlog do Produto
 
-<a href="https://github.com/Breno-Felip3/Trabalho-Final/projects/1">	
+<a href="https://github.com/Simonera2">	
 	<sub><b>Link Do Backlog Do Projeto</b></sub>
 	 
 # Sprints
