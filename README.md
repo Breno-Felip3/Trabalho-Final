@@ -18,10 +18,10 @@ O objetivo do projeto é criar um jogo educativo de Perguntas e Respostas relaci
 	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Tests">⚠️</a></td>
 
 <td align="center">
-	<a href="https://github.com/euovinicius">
-	<img src="https://avatars.githubusercontent.com/u/89489025?s=400&u=a20f6126b3cbef98ccdfbab897fe0c3e82304715&v=4" width="100px;" alt=""/><br />
-	<a href="https://github.com/euovinicius">	
-	<sub><b>euovinicius</b></sub>
+	<a href="https://github.com/rafaelalopesz">
+	<img src="https://avatars.githubusercontent.com/u/89741721?v=4" width="100px;" alt=""/><br />
+	<a href="https://github.com/rafaelalopesz">	
+	<sub><b>Rafaela Lopes</b></sub>
 	</a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Code">💻
 	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Documentation">📖
         </a> <a href="#infra-kentcdodds" title="Infrastructure (Hosting, Build-Tools, etc)"
