@@ -67,13 +67,13 @@ O objetivo do projeto é criar um jogo educativo de Perguntas e Respostas relaci
 <a href="https://github.com/Breno-Felip3/Trabalho-Final/projects/1">	
 	<sub><b>Link Do Backlog Do Projeto</b></sub>
 	
-## Diagrama de Casos de uso do sistema.
+## Diagrama de Casos de uso do sistema
 
 ![Capa do Projeto](https://cdn.discordapp.com/attachments/853716840232648774/914277286205853756/Caso_de_Uso_2.png)
-## Diagrama de Classes do sistema.
+## Diagrama de Classes do sistema
 
  ![Capa do Projeto](https://cdn.discordapp.com/attachments/853716840232648774/914275608840773692/WhatsApp_Image_2021-11-24_at_18.28.17.jpeg)
-## Modelo Entidade Relacionamento da base de dados do sistema.
+## Modelo Entidade Relacionamento da base de dados do sistema
 ![Capa do Projeto](https://cdn.discordapp.com/attachments/853716840232648774/914279160610975835/WhatsApp_Image_2021-11-24_at_16.42.42.jpeg)
-## Modelo Relacional da base de dados do sistema.
+## Modelo Relacional da base de dados do sistema
 ![Capa do Projeto](https://cdn.discordapp.com/attachments/896929852324716547/914277714012291122/prjFinalLogico.PNG)
