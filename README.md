@@ -5,6 +5,10 @@ UC: Programação e Soluções Computacionais e Modelagem de Software
 O objetivo do projeto é criar um jogo educativo de Perguntas e Respostas relacionadas a Programação Orientada à Objetos, no qual permite o jogador escolher 1 personagem dentre os 5 criados. As partidas serão intercaladas com 2 jogadores, cada um deles terá um tempo de vida limite dentro do jogo, do qual irá ser reduzido toda vez que o jogador responder incorretamente à uma pergunta. Após o término de cada partida será apresentado a pontuação final do jogador.
 ## Definições e Siglas
 ## Cronograma previsto
+
+<a href="https://github.com/Breno-Felip3/Trabalho-Final/projects/3">	
+	<sub><b>Link Do Cronograma Do Projeto</b></sub>
+	
 ## Colaboradores
 <table>
 <td align="center">
