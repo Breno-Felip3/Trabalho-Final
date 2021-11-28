@@ -69,11 +69,13 @@ O objetivo do projeto é criar um jogo educativo de Perguntas e Respostas relaci
 	
 ## Diagrama de Casos de uso do sistema
 
-![Capa do Projeto](https://cdn.discordapp.com/attachments/853716840232648774/914277286205853756/Caso_de_Uso_2.png)
+<img src="https://cdn.discordapp.com/attachments/853716840232648774/914277286205853756/Caso_de_Uso_2.png" width="600px;" alt=""/><br />
 ## Diagrama de Classes do sistema
 
- ![Capa do Projeto](https://cdn.discordapp.com/attachments/853716840232648774/914275608840773692/WhatsApp_Image_2021-11-24_at_18.28.17.jpeg)
+<img src="https://cdn.discordapp.com/attachments/853716840232648774/914275608840773692/WhatsApp_Image_2021-11-24_at_18.28.17.jpeg" width="800px;" alt=""/><br />
 ## Modelo Entidade Relacionamento da base de dados do sistema
-![Capa do Projeto](https://cdn.discordapp.com/attachments/853716840232648774/914279160610975835/WhatsApp_Image_2021-11-24_at_16.42.42.jpeg)
+	
+<img src="https://cdn.discordapp.com/attachments/853716840232648774/914279160610975835/WhatsApp_Image_2021-11-24_at_16.42.42.jpeg" width="700px;" alt=""/><br />
 ## Modelo Relacional da base de dados do sistema
-![Capa do Projeto](https://cdn.discordapp.com/attachments/896929852324716547/914277714012291122/prjFinalLogico.PNG)
+	
+<img src="https://cdn.discordapp.com/attachments/896929852324716547/914277714012291122/prjFinalLogico.PNG" width="600px;" alt=""/><br />	
