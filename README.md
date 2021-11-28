@@ -65,7 +65,7 @@ O objetivo do projeto é criar um jogo educativo de Perguntas e Respostas relaci
 ## Sprints
 	
 <a href="https://github.com/Breno-Felip3/Trabalho-Final/projects/1">	
-	<sub><b>Link Do Backlog Do Projeto</b></sub>
+	<sub><b>Link Do Sprint Do Projeto</b></sub>
 	
 ## Diagrama de Casos de uso do sistema
 
