@@ -51,14 +51,14 @@ O objetivo do projeto é criar um jogo educativo de Perguntas e Respostas relaci
 	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Tests"></a></td>
 	
 <td align="center">
-	<a href="https://github.com/Marumii">
-	<img src="https://avatars.githubusercontent.com/u/89428033?v=4" width="100px;" alt=""/><br />
-	<a href="https://github.com/Marumii">	
-	<sub><b>Lucas Barreto</b></sub>
+	<a href="https://github.com/VerteXFilipe">
+	<img src="https://avatars.githubusercontent.com/u/89553917?v=4" width="100px;" alt=""/><br />
+	<a href="https://github.com/VerteXFilipe">	
+	<sub><b>VerteXFilipe</b></sub>
 	</a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Code">💻
 	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Documentation">📖
-	</a> <a href="#infra-kentcdodds" title="Infrastructure (Hosting, Build-Tools, etc)">🚇
-	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Tests">⚠️</a></td>
+	</a> <a href="#infra-kentcdodds" title="Infrastructure (Hosting, Build-Tools, etc)"
+	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Tests"></a></td>
  <table>
 	 
 ## Backlog do Produto
